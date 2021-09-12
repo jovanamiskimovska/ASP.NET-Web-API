@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ssRDB9NX6Pl247O4LUD4gop6H4jo9zZ93Kdzvz96ob7HxUo9RQsJ4Nw8rjT/VuGa+lNcg8t97fuf4elZg7ayA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miskimovski\\source\\repos\\SEDC.BooksApp\\SEDC.BooksApp\\SEDC.BooksApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miskimovski\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Miskimovski\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
+    "C:\\Users\\Miskimovski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512",
+    "C:\\Users\\Miskimovski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.1\\swashbuckle.aspnetcore.swaggerui.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
